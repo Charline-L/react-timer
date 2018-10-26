@@ -2,7 +2,7 @@
 
 Consigne :
 Créer un composant Minuteur qui prend 2 paramètres :
-- durée en secondes
+- durée en minutes
 - libellé (string)
 
 Afficher 2 composants au sein d'une App :
